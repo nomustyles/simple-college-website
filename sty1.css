@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrap
+{
+	border:1px solid black;
+	height: 1300px;
+	width: 1300px;
+	margin: auto;
+}
+#header
+{
+	background-image: url(../images/hhhh.jpg)
+	height: 150px;
+	font-size: 60px;
+	text-align: center;
+}
+#main
+{
+	width: 1250px;
+	height: 1149px;
+	border: 2px solid red;
+	margin: auto;
+}
+#first
+{
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 30px;
+}
+#title
+{
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+#second
+{
+	
+	float: left;
+	width: 350px;
+	height: 200px;
+	margin: 30px;
+}
+#third
+{
+	
+	float: left;
+	width: 350px;
+	height: 200px;
+	margin: 30px;
+}
+#four
+{
+	float: justify;
+	width: 350px;
+	height: 250px;
+	margin: 30px;
+	padding-top: 0px;
+}
+#five
+{
+	float: center;
+	padding-left: 410px;
+	width: 350px;
+	height: 250px;
+	margin: 30px;
+	
+}
+#six
+{
+	
+	float: left;
+	width: 350px;
+	height: 250px;
+	margin: 30px;
+	padding-top: 0px;
+	
+}
+
+	
